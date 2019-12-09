@@ -52,6 +52,12 @@ This module can display the cellular network, WIFI network information of your m
 <img src="https://raw.githubusercontent.com/mediaios/img_bed/master/UNet_07.PNG" height="500px" alt="图片说明" ><img src="https://raw.githubusercontent.com/mediaios/img_bed/master/UNet_08.PNG" height="500px" alt="图片说明" ><img src="https://raw.githubusercontent.com/mediaios/img_bed/master/UNet_09.PNG" height="500px" alt="图片说明" >   
 </div>
 
+## Technical support 
+
+* Email: iosmediadev@gmail.com
+
+If you have any questions, please email us directly. Thank you!
+
 ## Others
 
 If you have any better comments or suggestions for this app, you can send us an email through the 'Feedback' function on the settings page, or give us feedback by submitting an issue in the 'Open Source Library'. We will carefully evaluate and continuously update the app. Thank you! !! !!

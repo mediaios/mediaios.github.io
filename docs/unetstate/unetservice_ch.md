@@ -35,6 +35,12 @@
 <img src="https://raw.githubusercontent.com/mediaios/img_bed/master/UNet_07.PNG" height="500px" alt="图片说明" ><img src="https://raw.githubusercontent.com/mediaios/img_bed/master/UNet_08.PNG" height="500px" alt="图片说明" ><img src="https://raw.githubusercontent.com/mediaios/img_bed/master/UNet_09.PNG" height="500px" alt="图片说明" >   
 </div>
 
+## 技术支持
+
+* 邮箱：iosmediadev@gmail.com
+
+有任何问题可直接发邮件反馈，谢谢！
+
 ## 其它
 
 如果你对该款应用有什么更好地意见或建议，你可以通过设置页面的'意见反馈'功能给我们发邮件，或者通过在'开源库'中提交issue的方式给我们反馈。我们会认真评估并持续更新应用。谢谢！！！
