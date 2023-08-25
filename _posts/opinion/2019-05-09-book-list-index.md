@@ -17,8 +17,8 @@ tag: 书,张齐
 
 
 
-[MaxwellQi]: https://maxwellqi.github.io "MaxwellQi"
+[MaxwellQi]: https://mediaios.github.io "MaxwellQi"
 [1]: {{ page.url }} ({{ page.title }})
-[2]: https://maxwellqi.github.io/baiyexing
-[3]: https://maxwellqi.github.io/huanye
-[4]: https://maxwellqi.github.io/touyingzi
+[2]: https://mediaios.github.io/baiyexing
+[3]: https://mediaios.github.io/huanye
+[4]: https://mediaios.github.io/touyingzi
