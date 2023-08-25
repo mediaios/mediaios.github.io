@@ -8,5 +8,5 @@ description: jQuery是一个伟大作品，他的完成充满智慧，我们来�
 2012-01-16 By {{ site.author_info }}
 
 
-[MaxwellQi]:    https://maxwellqi.github.io  "MaxwellQi"
+[Mediaios]:    https://mediaios.github.io  "Mediaios"
 [1]:    {{ page.url}}  ({{ page.title }})

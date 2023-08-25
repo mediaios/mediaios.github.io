@@ -42,7 +42,7 @@ tag:
 
 
 
-[MaxwellQi]: https://mediaios.github.io "MaxwellQi"
+[Mediaios]: https://mediaios.github.io "Mediaios"
 [1]: {{ page.url }} ({{ page.title }})
 [2]: https://github.com/MaxwellQi/Socket.io_Objective-C
 [3]: https://github.com/MaxwellQi/Socket.io_CPP

@@ -13,6 +13,6 @@ tag: linux
 
 
 
-[MaxwellQi]: https://maxwellqi.github.io "MaxwellQi"
+[Mediaios]: https://mediaios.github.io "Mediaios"
 [1]: {{ page.url }} ({{ page.title }})
-[2]: https://maxwellqi.github.io/linux-command-know
+[2]: https://mediaios.github.io/linux-command-know

@@ -19,9 +19,9 @@ tag: c, data structure, 算法
 
 
 
-[MaxwellQi]: https://maxwellqi.github.io "MaxwellQi"
+[Mediaios]: https://mediaios.github.io "Mediaios"
 [1]: {{ page.url }} ({{ page.title }})
-[2]: https://maxwellqi.github.io/data-structure-sort
-[3]: https://maxwellqi.github.io/data-structure-seqlist
-[4]: https://maxwellqi.github.io/data-structure-queue
-[5]: https://maxwellqi.github.io/data-struct-onelink
+[2]: https://mediaios.github.io/data-structure-sort
+[3]: https://mediaios.github.io/data-structure-seqlist
+[4]: https://mediaios.github.io/data-structure-queue
+[5]: https://mediaios.github.io/data-struct-onelink
