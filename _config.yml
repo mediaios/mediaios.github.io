@@ -1,0 +1,14 @@
+auto: true
+# Site settings
+title: Mediaios
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: https://mediaios.github.io
+feed: /atom.xml
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+paginate: 8
+permalink: /:title/
+

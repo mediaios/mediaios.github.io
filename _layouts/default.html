@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Maxwellqi -->
+  <meta charset="utf-8" />
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="author" content="Maxwellqi" />
+    <meta name="description" content="Maxwellqi's Blog" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="/css/default.css" type="text/css" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="{{ site.feed }}" />
+    <script src="/js/jquery-1.7.1.min.js" type="text/javascript"></script>
+</head>
+  <body>
+
+
+     <div class="home-menu">
+        <div class="home-icon-con">
+            <a class="home-menu-icon" href="/">首页</a>
+            <a class="home-me" href="/about-me">关于</a>
+            <a class="home-follow" href="#" title="欢迎关注我的微信公众号">微信公众号</a>
+        </div>
+        <div class="home-contact">
+            <img src="../images/qrcode-maxwellqi.png" alt="欢迎关注我的微信公众号" />
+        </div>
+    </div>
+
+    {{ content }}
+
+     <script type="text/javascript">
+        $(function(){
+            $('.home-follow').click(function(e){
+                e.preventDefault();
+
+                if($('.home-contact').is(':visible')){
+                    $('.home-contact').slideUp(100);
+                }else{
+                    $('.home-contact').slideDown(100);
+                }
+            });
+        })
+    </script>
+
+  </body>
+
+</html>
